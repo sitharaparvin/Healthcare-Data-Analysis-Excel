@@ -28,7 +28,7 @@ The objective was to transform raw healthcare data into actionable business insi
 
 ## 📊 Dashboard Preview
 
-![Healthcare Dashboard](images/dashboard.png)
+![Healthcare Dashboard](dashboard.png)
 
 ---
 
