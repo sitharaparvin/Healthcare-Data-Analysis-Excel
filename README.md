@@ -47,8 +47,24 @@ Age, obesity, and hospital tier are major drivers of healthcare expenditure. Pre
 
 ---
 
-## 🚀 What I Learned
-- Building interactive Excel dashboards
-- Identifying cost drivers in healthcare data
-- Translating analysis into business insights
-- Applying analytical thinking to real-world datasets
+## 📂 Repository Structure
+
+dataset/
+healthcare_dataset.xlsx
+
+dashboard/
+dashboard.png
+
+README.md
+
+## 🚀 Skills Demonstrated
+
+* Data Cleaning
+* Data Analysis using Excel
+* Pivot Table Analysis
+* Data Visualization
+
+## 📌 Conclusion
+
+This project demonstrates how Excel can be used effectively for healthcare data analysis and dashboard creation to generate meaningful insights.
+
