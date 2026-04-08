@@ -55,6 +55,9 @@ healthcare_dataset.xlsx
 dashboard/
 dashboard.png
 
+pivot_table/
+pivot_table.png
+
 README.md
 
 ## 🚀 Skills Demonstrated
